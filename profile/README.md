@@ -1,4 +1,4 @@
-# Aither
+# [Aither](https://aither.no)
 
 Interested in understanding the sun's trajectory and its potential for solar energy in your area with a simple image upload? Welcome to Aither, where we're redefining the boundaries of image processing and solar energy visualisation.
 
